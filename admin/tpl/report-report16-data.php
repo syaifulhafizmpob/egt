@@ -1,0 +1,103 @@
+<?php
+@_object($this) || exit("403 Forbidden");
+$this->_notlogin();
+$this->survey_id = $this->request["survey_id"];
+if ( _null($this->survey_id) ) exit("Invalid survey!");
+$svdb = (object)$this->survey->_getinfo($this->survey_id );
+$syear = ucwords($svdb->month)." ".$svdb->year;
+?>
+
+<style type="text/css">
+#x-table1 {
+	border-spacing:0;
+  	border-collapse:collapse;
+}
+#x-table1 th {
+	border-spacing:0;
+  	border-collapse:collapse;
+	border: 1px solid #bbbbbb;
+}
+
+
+#x-table1 td {
+	vertical-align: top;
+	padding-top: 5px;
+	border: 1px solid #bbbbbb;
+}
+
+#x-table1 .border-top {
+        border-top: 1px solid #bbbbbb;
+}
+
+#x-table1 .border-bottom {
+        border-bottom: 1px solid #bbbbbb;
+}
+
+#x-table1 .border-left {
+        border-left: 1px solid #bbbbbb;
+}
+
+#x-table1 .border-right {
+        border-right: 1px solid #bbbbbb;
+}
+#x-table1 td.title {
+	font-weight:bold;
+	border: none;
+	padding-left: 0px;
+	font-size: 14px;
+	text-align:left;
+}
+</style>
+
+<?php
+$pl = $this->display->_listcategory("kilang");
+$pe = $this->jawatan->_list_group_kilang();
+$pen = count($pe);
+$jta = array();
+
+$html = "";
+$html .= "
+<h1></h1>
+<center>
+<table id='x-table1' style='margin: 0px;padding:0px;width:100%;'>
+<tr><td colspan='".( $pen + 1)."' class='title'>Bilangan Kekurangan Pekerja Mengikut Sektor dan Kategori Pekerjaan - {$syear}</td></tr>
+<tr>
+<th rowspan='2' style='vertical-align: top;'>Sektor</th>
+<th style='vertical-align: top;' class='center' colspan='".$pen."'>Kategori Jawatan</th>
+</tr>
+";
+if ( _array($pe) ) {
+    $html .= "<tr>";
+    foreach($pe as $x => $rt) {
+		$html .= "<td style='vertical-align: top;' class='bold right'>".$rt['name']."</td>";
+	}
+    $html .= "</tr>";
+}
+
+if ( _array($pl) ) {
+	while( $rt = @array_shift($pl) ) {
+		$html .= "<tr>";
+		$html .= "<td>".$rt['name']."</td>";
+        foreach($pe as $x => $rta) {
+		    $total = (int)$this->record->_report16($rt['id'], $rta['id'], $this->survey_id);
+		    $html .= "<td class='right'>".$total."</td>";
+            $jta[$rta['id']] += $total;
+        }
+		$html .= "</tr>";
+	}
+}
+
+$html .= "
+<tr>
+<td style='vertical-align: top;font-weight:bold;' class='right'>Jumlah</td>";
+if ( _array($jta) ) {
+    foreach($jta as $b => $n) {
+        $html .= "<td class='right'>".(int)$n."</td>";
+    }
+}
+$html .= "</tr></table></center>";
+
+_E($html);
+?>
+
+

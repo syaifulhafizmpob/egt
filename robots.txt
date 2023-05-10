@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /lib/
+Disallow: /cache/
+Disallow: /tpl/
+Disallow: /data/
+Disallow: /ui/
+Disallow: /rsc/
+Disallow: /download/
+Disallow: /minify.php
+Disallow: /behavior.php
+Disallow: /imgpreload.php
+Allow: /

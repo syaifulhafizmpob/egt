@@ -1,0 +1,10 @@
+cp report-report19p.php report-report19.php
+cp report-report19p-data.php report-report19-data.php
+cp report-report19p-print.php report-report19-print.php
+sed -i -e 's/report19p/report19/g' report-report19.php
+sed -i -e 's/report19p/report19/g' report-report19-data.php
+sed -i -e 's/report19p/report19/g' report-report19-print.php
+sed -i -e 's/Peniaga/peniaga/g' -e 's/peniaga/kilang/g' report-report19.php
+sed -i -e 's/Peniaga/peniaga/g' -e 's/peniaga/kilang/g' report-report19-data.php
+sed -i -e 's/Peniaga/peniaga/g' -e 's/peniaga/kilang/g' report-report19-print.php
+

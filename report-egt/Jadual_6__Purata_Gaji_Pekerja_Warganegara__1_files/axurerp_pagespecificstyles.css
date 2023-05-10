@@ -1,0 +1,9048 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0 {
+    position:absolute;
+    left:33px;
+    top:28px;
+    width:801px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1 {
+    position:absolute;
+    left:33px;
+    top:115px;
+    width:801px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:33px;
+    top:626px;
+    width:801px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3 {
+    position:absolute;
+    left:33px;
+    top:1115px;
+    width:801px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:33px;
+    top:1620px;
+    width:801px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:33px;
+    top:70px;
+    width:180px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u6 {
+    position:absolute;
+    left:230px;
+    top:70px;
+    width:180px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u7 {
+    position:absolute;
+    left:427px;
+    top:70px;
+    width:180px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+#u8 {
+    position:absolute;
+    left:139px;
+    top:161px;
+    width:481px;
+    height:32px
+}
+
+.u9_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:476px;
+    height:27px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:482px;
+    height:33px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:472px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u11 {
+    position:absolute;
+    left:39px;
+    top:188px;
+    width:581px;
+    height:333px
+}
+
+.u12_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:176px;
+    height:52px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:58px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:176px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:276px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:376px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:476px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u22_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:0px;
+    top:52px;
+    width:176px;
+    height:36px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:42px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:176px;
+    top:52px;
+    width:100px;
+    height:36px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u24_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:276px;
+    top:52px;
+    width:100px;
+    height:36px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u24_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:376px;
+    top:52px;
+    width:100px;
+    height:36px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u24_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:476px;
+    top:52px;
+    width:100px;
+    height:36px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:0px;
+    top:88px;
+    width:176px;
+    height:20px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:176px;
+    top:88px;
+    width:100px;
+    height:20px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:276px;
+    top:88px;
+    width:100px;
+    height:20px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:376px;
+    top:88px;
+    width:100px;
+    height:20px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:476px;
+    top:88px;
+    width:100px;
+    height:20px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:0px;
+    top:108px;
+    width:176px;
+    height:20px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:176px;
+    top:108px;
+    width:100px;
+    height:20px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:276px;
+    top:108px;
+    width:100px;
+    height:20px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:376px;
+    top:108px;
+    width:100px;
+    height:20px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:476px;
+    top:108px;
+    width:100px;
+    height:20px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:0px;
+    top:128px;
+    width:176px;
+    height:20px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:176px;
+    top:128px;
+    width:100px;
+    height:20px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:276px;
+    top:128px;
+    width:100px;
+    height:20px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:376px;
+    top:128px;
+    width:100px;
+    height:20px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:476px;
+    top:128px;
+    width:100px;
+    height:20px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u62_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:0px;
+    top:148px;
+    width:176px;
+    height:24px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:30px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:176px;
+    top:148px;
+    width:100px;
+    height:24px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:276px;
+    top:148px;
+    width:100px;
+    height:24px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:376px;
+    top:148px;
+    width:100px;
+    height:24px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:476px;
+    top:148px;
+    width:100px;
+    height:24px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u72_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:0px;
+    top:172px;
+    width:176px;
+    height:23px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:29px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:176px;
+    top:172px;
+    width:100px;
+    height:23px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:276px;
+    top:172px;
+    width:100px;
+    height:23px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:376px;
+    top:172px;
+    width:100px;
+    height:23px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:476px;
+    top:172px;
+    width:100px;
+    height:23px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u82_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:0px;
+    top:195px;
+    width:176px;
+    height:22px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:28px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:176px;
+    top:195px;
+    width:100px;
+    height:22px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:276px;
+    top:195px;
+    width:100px;
+    height:22px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:376px;
+    top:195px;
+    width:100px;
+    height:22px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:476px;
+    top:195px;
+    width:100px;
+    height:22px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:0px;
+    top:217px;
+    width:176px;
+    height:20px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:176px;
+    top:217px;
+    width:100px;
+    height:20px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:276px;
+    top:217px;
+    width:100px;
+    height:20px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:376px;
+    top:217px;
+    width:100px;
+    height:20px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:476px;
+    top:217px;
+    width:100px;
+    height:20px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u102_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:0px;
+    top:237px;
+    width:176px;
+    height:21px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:27px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u104_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:176px;
+    top:237px;
+    width:100px;
+    height:21px;
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:27px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u104_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:276px;
+    top:237px;
+    width:100px;
+    height:21px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:27px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u104_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:376px;
+    top:237px;
+    width:100px;
+    height:21px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:27px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u104_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:476px;
+    top:237px;
+    width:100px;
+    height:21px;
+}
+
+#u110_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:27px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u112_container {
+    position:absolute;
+    left:0px;
+    top:258px;
+    width:176px;
+    height:20px;
+}
+
+#u112_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u113 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:176px;
+    top:258px;
+    width:100px;
+    height:20px;
+}
+
+#u114_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:276px;
+    top:258px;
+    width:100px;
+    height:20px;
+}
+
+#u116_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:376px;
+    top:258px;
+    width:100px;
+    height:20px;
+}
+
+#u118_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:476px;
+    top:258px;
+    width:100px;
+    height:20px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u122_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:0px;
+    top:278px;
+    width:176px;
+    height:25px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:31px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:176px;
+    top:278px;
+    width:100px;
+    height:25px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:276px;
+    top:278px;
+    width:100px;
+    height:25px;
+}
+
+#u126_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:376px;
+    top:278px;
+    width:100px;
+    height:25px;
+}
+
+#u128_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:476px;
+    top:278px;
+    width:100px;
+    height:25px;
+}
+
+#u130_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u122_normal.png');
+}
+
+.u132_container {
+    position:absolute;
+    left:0px;
+    top:303px;
+    width:176px;
+    height:25px;
+}
+
+#u132_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:31px;
+}
+
+.u133 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u134_container {
+    position:absolute;
+    left:176px;
+    top:303px;
+    width:100px;
+    height:25px;
+}
+
+#u134_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u135 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u136_container {
+    position:absolute;
+    left:276px;
+    top:303px;
+    width:100px;
+    height:25px;
+}
+
+#u136_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u137 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:376px;
+    top:303px;
+    width:100px;
+    height:25px;
+}
+
+#u138_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:476px;
+    top:303px;
+    width:100px;
+    height:25px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u142 {
+    position:absolute;
+    left:39px;
+    top:161px;
+    width:181px;
+    height:83px
+}
+
+.u143_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u143_normal.png');
+}
+
+.u143_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:176px;
+    height:78px;
+}
+
+#u143_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:84px;
+}
+
+.u144 {
+    position:absolute;
+    left:2px;
+    top:31px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u145 {
+    position:absolute;
+    left:39px;
+    top:240px;
+    width:181px;
+    height:256px
+}
+
+.u146_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u22_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:176px;
+    height:36px;
+}
+
+#u146_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:42px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:0px;
+    top:36px;
+    width:176px;
+    height:20px;
+}
+
+#u148_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:0px;
+    top:56px;
+    width:176px;
+    height:20px;
+}
+
+#u150_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u82_normal.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:0px;
+    top:76px;
+    width:176px;
+    height:22px;
+}
+
+#u152_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:28px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u82_normal.png');
+}
+
+.u154_container {
+    position:absolute;
+    left:0px;
+    top:98px;
+    width:176px;
+    height:22px;
+}
+
+#u154_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:28px;
+}
+
+.u155 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u82_normal.png');
+}
+
+.u156_container {
+    position:absolute;
+    left:0px;
+    top:120px;
+    width:176px;
+    height:22px;
+}
+
+#u156_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:28px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u82_normal.png');
+}
+
+.u158_container {
+    position:absolute;
+    left:0px;
+    top:142px;
+    width:176px;
+    height:22px;
+}
+
+#u158_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:28px;
+}
+
+.u159 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u160_container {
+    position:absolute;
+    left:0px;
+    top:164px;
+    width:176px;
+    height:20px;
+}
+
+#u160_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u161 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u162_container {
+    position:absolute;
+    left:0px;
+    top:184px;
+    width:176px;
+    height:20px;
+}
+
+#u162_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u163 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u164_container {
+    position:absolute;
+    left:0px;
+    top:204px;
+    width:176px;
+    height:20px;
+}
+
+#u164_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u165 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u166_normal.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:0px;
+    top:224px;
+    width:176px;
+    height:27px;
+}
+
+#u166_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:33px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u168 {
+    position:absolute;
+    left:133px;
+    top:713px;
+    width:481px;
+    height:32px
+}
+
+.u169_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u9_normal.png');
+}
+
+.u169_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:476px;
+    height:27px;
+}
+
+#u169_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:482px;
+    height:33px;
+}
+
+.u170 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:472px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u171 {
+    position:absolute;
+    left:33px;
+    top:740px;
+    width:581px;
+    height:291px
+}
+
+.u172_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u12_normal.png');
+}
+
+.u172_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:176px;
+    height:52px;
+}
+
+#u172_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:58px;
+}
+
+.u173 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u174_container {
+    position:absolute;
+    left:176px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u174_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u175 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u176_container {
+    position:absolute;
+    left:276px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u176_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u177 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u178_container {
+    position:absolute;
+    left:376px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u178_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u179 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u180_container {
+    position:absolute;
+    left:476px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u180_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u181 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u182_container {
+    position:absolute;
+    left:0px;
+    top:52px;
+    width:176px;
+    height:20px;
+}
+
+#u182_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u183 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u184_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u184_container {
+    position:absolute;
+    left:176px;
+    top:52px;
+    width:100px;
+    height:20px;
+}
+
+#u184_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u185 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u186_container {
+    position:absolute;
+    left:276px;
+    top:52px;
+    width:100px;
+    height:20px;
+}
+
+#u186_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u187 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u188_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u188_container {
+    position:absolute;
+    left:376px;
+    top:52px;
+    width:100px;
+    height:20px;
+}
+
+#u188_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u189 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u190_container {
+    position:absolute;
+    left:476px;
+    top:52px;
+    width:100px;
+    height:20px;
+}
+
+#u190_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u191 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u192_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u192_container {
+    position:absolute;
+    left:0px;
+    top:72px;
+    width:176px;
+    height:20px;
+}
+
+#u192_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u193 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u194_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u194_container {
+    position:absolute;
+    left:176px;
+    top:72px;
+    width:100px;
+    height:20px;
+}
+
+#u194_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u195 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u196_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u196_container {
+    position:absolute;
+    left:276px;
+    top:72px;
+    width:100px;
+    height:20px;
+}
+
+#u196_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u197 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u198_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u198_container {
+    position:absolute;
+    left:376px;
+    top:72px;
+    width:100px;
+    height:20px;
+}
+
+#u198_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u199 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u200_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u200_container {
+    position:absolute;
+    left:476px;
+    top:72px;
+    width:100px;
+    height:20px;
+}
+
+#u200_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u201 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u202_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u202_container {
+    position:absolute;
+    left:0px;
+    top:92px;
+    width:176px;
+    height:20px;
+}
+
+#u202_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u203 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u204_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u204_container {
+    position:absolute;
+    left:176px;
+    top:92px;
+    width:100px;
+    height:20px;
+}
+
+#u204_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u205 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u206_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u206_container {
+    position:absolute;
+    left:276px;
+    top:92px;
+    width:100px;
+    height:20px;
+}
+
+#u206_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u207 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u208_container {
+    position:absolute;
+    left:376px;
+    top:92px;
+    width:100px;
+    height:20px;
+}
+
+#u208_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u209 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:476px;
+    top:92px;
+    width:100px;
+    height:20px;
+}
+
+#u210_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u211 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u212_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u102_normal.png');
+}
+
+.u212_container {
+    position:absolute;
+    left:0px;
+    top:112px;
+    width:176px;
+    height:21px;
+}
+
+#u212_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:27px;
+}
+
+.u213 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u214_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u104_normal.png');
+}
+
+.u214_container {
+    position:absolute;
+    left:176px;
+    top:112px;
+    width:100px;
+    height:21px;
+}
+
+#u214_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:27px;
+}
+
+.u215 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u216_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u104_normal.png');
+}
+
+.u216_container {
+    position:absolute;
+    left:276px;
+    top:112px;
+    width:100px;
+    height:21px;
+}
+
+#u216_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:27px;
+}
+
+.u217 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u218_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u104_normal.png');
+}
+
+.u218_container {
+    position:absolute;
+    left:376px;
+    top:112px;
+    width:100px;
+    height:21px;
+}
+
+#u218_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:27px;
+}
+
+.u219 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u220_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u104_normal.png');
+}
+
+.u220_container {
+    position:absolute;
+    left:476px;
+    top:112px;
+    width:100px;
+    height:21px;
+}
+
+#u220_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:27px;
+}
+
+.u221 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u222_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u222_container {
+    position:absolute;
+    left:0px;
+    top:133px;
+    width:176px;
+    height:20px;
+}
+
+#u222_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u223 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u224_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u224_container {
+    position:absolute;
+    left:176px;
+    top:133px;
+    width:100px;
+    height:20px;
+}
+
+#u224_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u225 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u226_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u226_container {
+    position:absolute;
+    left:276px;
+    top:133px;
+    width:100px;
+    height:20px;
+}
+
+#u226_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u227 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u228_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u228_container {
+    position:absolute;
+    left:376px;
+    top:133px;
+    width:100px;
+    height:20px;
+}
+
+#u228_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u229 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u230_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u230_container {
+    position:absolute;
+    left:476px;
+    top:133px;
+    width:100px;
+    height:20px;
+}
+
+#u230_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u231 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u232_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u232_container {
+    position:absolute;
+    left:0px;
+    top:153px;
+    width:176px;
+    height:20px;
+}
+
+#u232_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u233 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u234_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u234_container {
+    position:absolute;
+    left:176px;
+    top:153px;
+    width:100px;
+    height:20px;
+}
+
+#u234_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u235 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u236_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u236_container {
+    position:absolute;
+    left:276px;
+    top:153px;
+    width:100px;
+    height:20px;
+}
+
+#u236_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u237 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u238_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u238_container {
+    position:absolute;
+    left:376px;
+    top:153px;
+    width:100px;
+    height:20px;
+}
+
+#u238_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u239 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u240_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u240_container {
+    position:absolute;
+    left:476px;
+    top:153px;
+    width:100px;
+    height:20px;
+}
+
+#u240_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u241 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u242_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u242_normal.png');
+}
+
+.u242_container {
+    position:absolute;
+    left:0px;
+    top:173px;
+    width:176px;
+    height:35px;
+}
+
+#u242_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:41px;
+}
+
+.u243 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u244_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u244_normal.png');
+}
+
+.u244_container {
+    position:absolute;
+    left:176px;
+    top:173px;
+    width:100px;
+    height:35px;
+}
+
+#u244_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u245 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u246_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u244_normal.png');
+}
+
+.u246_container {
+    position:absolute;
+    left:276px;
+    top:173px;
+    width:100px;
+    height:35px;
+}
+
+#u246_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u247 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u248_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u244_normal.png');
+}
+
+.u248_container {
+    position:absolute;
+    left:376px;
+    top:173px;
+    width:100px;
+    height:35px;
+}
+
+#u248_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u249 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u250_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u244_normal.png');
+}
+
+.u250_container {
+    position:absolute;
+    left:476px;
+    top:173px;
+    width:100px;
+    height:35px;
+}
+
+#u250_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:41px;
+}
+
+.u251 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u252_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u82_normal.png');
+}
+
+.u252_container {
+    position:absolute;
+    left:0px;
+    top:208px;
+    width:176px;
+    height:22px;
+}
+
+#u252_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:28px;
+}
+
+.u253 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u254_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u254_container {
+    position:absolute;
+    left:176px;
+    top:208px;
+    width:100px;
+    height:22px;
+}
+
+#u254_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u255 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u256_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u256_container {
+    position:absolute;
+    left:276px;
+    top:208px;
+    width:100px;
+    height:22px;
+}
+
+#u256_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u257 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u258_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u258_container {
+    position:absolute;
+    left:376px;
+    top:208px;
+    width:100px;
+    height:22px;
+}
+
+#u258_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u259 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u260_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u260_container {
+    position:absolute;
+    left:476px;
+    top:208px;
+    width:100px;
+    height:22px;
+}
+
+#u260_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u261 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u262_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u262_normal.png');
+}
+
+.u262_container {
+    position:absolute;
+    left:0px;
+    top:230px;
+    width:176px;
+    height:28px;
+}
+
+#u262_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:34px;
+}
+
+.u263 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u264_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u264_normal.png');
+}
+
+.u264_container {
+    position:absolute;
+    left:176px;
+    top:230px;
+    width:100px;
+    height:28px;
+}
+
+#u264_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:34px;
+}
+
+.u265 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u266_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u264_normal.png');
+}
+
+.u266_container {
+    position:absolute;
+    left:276px;
+    top:230px;
+    width:100px;
+    height:28px;
+}
+
+#u266_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:34px;
+}
+
+.u267 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u268_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u264_normal.png');
+}
+
+.u268_container {
+    position:absolute;
+    left:376px;
+    top:230px;
+    width:100px;
+    height:28px;
+}
+
+#u268_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:34px;
+}
+
+.u269 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u270_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u264_normal.png');
+}
+
+.u270_container {
+    position:absolute;
+    left:476px;
+    top:230px;
+    width:100px;
+    height:28px;
+}
+
+#u270_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:34px;
+}
+
+.u271 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u272_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u262_normal.png');
+}
+
+.u272_container {
+    position:absolute;
+    left:0px;
+    top:258px;
+    width:176px;
+    height:28px;
+}
+
+#u272_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:34px;
+}
+
+.u273 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u274_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u264_normal.png');
+}
+
+.u274_container {
+    position:absolute;
+    left:176px;
+    top:258px;
+    width:100px;
+    height:28px;
+}
+
+#u274_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:34px;
+}
+
+.u275 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u276_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u264_normal.png');
+}
+
+.u276_container {
+    position:absolute;
+    left:276px;
+    top:258px;
+    width:100px;
+    height:28px;
+}
+
+#u276_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:34px;
+}
+
+.u277 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u278_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u264_normal.png');
+}
+
+.u278_container {
+    position:absolute;
+    left:376px;
+    top:258px;
+    width:100px;
+    height:28px;
+}
+
+#u278_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:34px;
+}
+
+.u279 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u280_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u264_normal.png');
+}
+
+.u280_container {
+    position:absolute;
+    left:476px;
+    top:258px;
+    width:100px;
+    height:28px;
+}
+
+#u280_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:34px;
+}
+
+.u281 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u282 {
+    position:absolute;
+    left:33px;
+    top:713px;
+    width:181px;
+    height:83px
+}
+
+.u283_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u143_normal.png');
+}
+
+.u283_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:176px;
+    height:78px;
+}
+
+#u283_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:84px;
+}
+
+.u284 {
+    position:absolute;
+    left:2px;
+    top:31px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u285 {
+    position:absolute;
+    left:33px;
+    top:792px;
+    width:181px;
+    height:212px
+}
+
+.u286_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u286_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:176px;
+    height:20px;
+}
+
+#u286_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u287 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u288_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u288_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:176px;
+    height:20px;
+}
+
+#u288_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u289 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u290_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u290_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:176px;
+    height:20px;
+}
+
+#u290_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u291 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u292_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u292_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:176px;
+    height:20px;
+}
+
+#u292_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u293 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u294_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u294_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:176px;
+    height:20px;
+}
+
+#u294_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u295 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u296_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u296_container {
+    position:absolute;
+    left:0px;
+    top:100px;
+    width:176px;
+    height:20px;
+}
+
+#u296_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u297 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u298_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u22_normal.png');
+}
+
+.u298_container {
+    position:absolute;
+    left:0px;
+    top:120px;
+    width:176px;
+    height:36px;
+}
+
+#u298_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:42px;
+}
+
+.u299 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u300_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u72_normal.png');
+}
+
+.u300_container {
+    position:absolute;
+    left:0px;
+    top:156px;
+    width:176px;
+    height:23px;
+}
+
+#u300_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:29px;
+}
+
+.u301 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u302_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u262_normal.png');
+}
+
+.u302_container {
+    position:absolute;
+    left:0px;
+    top:179px;
+    width:176px;
+    height:28px;
+}
+
+#u302_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:34px;
+}
+
+.u303 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u304 {
+    position:absolute;
+    left:133px;
+    top:1198px;
+    width:481px;
+    height:32px
+}
+
+.u305_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u9_normal.png');
+}
+
+.u305_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:476px;
+    height:27px;
+}
+
+#u305_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:482px;
+    height:33px;
+}
+
+.u306 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:472px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u307 {
+    position:absolute;
+    left:33px;
+    top:1225px;
+    width:581px;
+    height:297px
+}
+
+.u308_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u12_normal.png');
+}
+
+.u308_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:176px;
+    height:52px;
+}
+
+#u308_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:58px;
+}
+
+.u309 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u310_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u310_container {
+    position:absolute;
+    left:176px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u310_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u311 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u312_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u312_container {
+    position:absolute;
+    left:276px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u312_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u313 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u314_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u314_container {
+    position:absolute;
+    left:376px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u314_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u315 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u316_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u316_container {
+    position:absolute;
+    left:476px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u316_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u317 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u318_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u318_container {
+    position:absolute;
+    left:0px;
+    top:52px;
+    width:176px;
+    height:20px;
+}
+
+#u318_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u319 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u320_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u320_container {
+    position:absolute;
+    left:176px;
+    top:52px;
+    width:100px;
+    height:20px;
+}
+
+#u320_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u321 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u322_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u322_container {
+    position:absolute;
+    left:276px;
+    top:52px;
+    width:100px;
+    height:20px;
+}
+
+#u322_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u323 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u324_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u324_container {
+    position:absolute;
+    left:376px;
+    top:52px;
+    width:100px;
+    height:20px;
+}
+
+#u324_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u325 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u326_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u326_container {
+    position:absolute;
+    left:476px;
+    top:52px;
+    width:100px;
+    height:20px;
+}
+
+#u326_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u327 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u328_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u62_normal.png');
+}
+
+.u328_container {
+    position:absolute;
+    left:0px;
+    top:72px;
+    width:176px;
+    height:24px;
+}
+
+#u328_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:30px;
+}
+
+.u329 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u330_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u330_container {
+    position:absolute;
+    left:176px;
+    top:72px;
+    width:100px;
+    height:24px;
+}
+
+#u330_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u331 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u332_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u332_container {
+    position:absolute;
+    left:276px;
+    top:72px;
+    width:100px;
+    height:24px;
+}
+
+#u332_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u333 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u334_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u334_container {
+    position:absolute;
+    left:376px;
+    top:72px;
+    width:100px;
+    height:24px;
+}
+
+#u334_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u335 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u336_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u336_container {
+    position:absolute;
+    left:476px;
+    top:72px;
+    width:100px;
+    height:24px;
+}
+
+#u336_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u337 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u338_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u62_normal.png');
+}
+
+.u338_container {
+    position:absolute;
+    left:0px;
+    top:96px;
+    width:176px;
+    height:24px;
+}
+
+#u338_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:30px;
+}
+
+.u339 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u340_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u340_container {
+    position:absolute;
+    left:176px;
+    top:96px;
+    width:100px;
+    height:24px;
+}
+
+#u340_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u341 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u342_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u342_container {
+    position:absolute;
+    left:276px;
+    top:96px;
+    width:100px;
+    height:24px;
+}
+
+#u342_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u343 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u344_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u344_container {
+    position:absolute;
+    left:376px;
+    top:96px;
+    width:100px;
+    height:24px;
+}
+
+#u344_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u345 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u346_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u346_container {
+    position:absolute;
+    left:476px;
+    top:96px;
+    width:100px;
+    height:24px;
+}
+
+#u346_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u347 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u348_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u72_normal.png');
+}
+
+.u348_container {
+    position:absolute;
+    left:0px;
+    top:120px;
+    width:176px;
+    height:23px;
+}
+
+#u348_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:29px;
+}
+
+.u349 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u350_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u350_container {
+    position:absolute;
+    left:176px;
+    top:120px;
+    width:100px;
+    height:23px;
+}
+
+#u350_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u351 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u352_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u352_container {
+    position:absolute;
+    left:276px;
+    top:120px;
+    width:100px;
+    height:23px;
+}
+
+#u352_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u353 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u354_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u354_container {
+    position:absolute;
+    left:376px;
+    top:120px;
+    width:100px;
+    height:23px;
+}
+
+#u354_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u355 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u356_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u356_container {
+    position:absolute;
+    left:476px;
+    top:120px;
+    width:100px;
+    height:23px;
+}
+
+#u356_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u357 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u358_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u358_container {
+    position:absolute;
+    left:0px;
+    top:143px;
+    width:176px;
+    height:20px;
+}
+
+#u358_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u359 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u360_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u360_container {
+    position:absolute;
+    left:176px;
+    top:143px;
+    width:100px;
+    height:20px;
+}
+
+#u360_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u361 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u362_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u362_container {
+    position:absolute;
+    left:276px;
+    top:143px;
+    width:100px;
+    height:20px;
+}
+
+#u362_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u363 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u364_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u364_container {
+    position:absolute;
+    left:376px;
+    top:143px;
+    width:100px;
+    height:20px;
+}
+
+#u364_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u365 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u366_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u366_container {
+    position:absolute;
+    left:476px;
+    top:143px;
+    width:100px;
+    height:20px;
+}
+
+#u366_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u367 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u368_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u72_normal.png');
+}
+
+.u368_container {
+    position:absolute;
+    left:0px;
+    top:163px;
+    width:176px;
+    height:23px;
+}
+
+#u368_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:29px;
+}
+
+.u369 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u370_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u370_container {
+    position:absolute;
+    left:176px;
+    top:163px;
+    width:100px;
+    height:23px;
+}
+
+#u370_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u371 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u372_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u372_container {
+    position:absolute;
+    left:276px;
+    top:163px;
+    width:100px;
+    height:23px;
+}
+
+#u372_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u373 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u374_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u374_container {
+    position:absolute;
+    left:376px;
+    top:163px;
+    width:100px;
+    height:23px;
+}
+
+#u374_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u375 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u376_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u376_container {
+    position:absolute;
+    left:476px;
+    top:163px;
+    width:100px;
+    height:23px;
+}
+
+#u376_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u377 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u378_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u378_container {
+    position:absolute;
+    left:0px;
+    top:186px;
+    width:176px;
+    height:20px;
+}
+
+#u378_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u379 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u380_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u380_container {
+    position:absolute;
+    left:176px;
+    top:186px;
+    width:100px;
+    height:20px;
+}
+
+#u380_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u381 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u382_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u382_container {
+    position:absolute;
+    left:276px;
+    top:186px;
+    width:100px;
+    height:20px;
+}
+
+#u382_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u383 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u384_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u384_container {
+    position:absolute;
+    left:376px;
+    top:186px;
+    width:100px;
+    height:20px;
+}
+
+#u384_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u385 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u386_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u386_container {
+    position:absolute;
+    left:476px;
+    top:186px;
+    width:100px;
+    height:20px;
+}
+
+#u386_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u387 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u388_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u82_normal.png');
+}
+
+.u388_container {
+    position:absolute;
+    left:0px;
+    top:206px;
+    width:176px;
+    height:22px;
+}
+
+#u388_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:28px;
+}
+
+.u389 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u390_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u390_container {
+    position:absolute;
+    left:176px;
+    top:206px;
+    width:100px;
+    height:22px;
+}
+
+#u390_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u391 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u392_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u392_container {
+    position:absolute;
+    left:276px;
+    top:206px;
+    width:100px;
+    height:22px;
+}
+
+#u392_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u393 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u394_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u394_container {
+    position:absolute;
+    left:376px;
+    top:206px;
+    width:100px;
+    height:22px;
+}
+
+#u394_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u395 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u396_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u396_container {
+    position:absolute;
+    left:476px;
+    top:206px;
+    width:100px;
+    height:22px;
+}
+
+#u396_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u397 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u398_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u398_container {
+    position:absolute;
+    left:0px;
+    top:228px;
+    width:176px;
+    height:20px;
+}
+
+#u398_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u399 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u400_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u400_container {
+    position:absolute;
+    left:176px;
+    top:228px;
+    width:100px;
+    height:20px;
+}
+
+#u400_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u401 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u402_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u402_container {
+    position:absolute;
+    left:276px;
+    top:228px;
+    width:100px;
+    height:20px;
+}
+
+#u402_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u403 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u404_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u404_container {
+    position:absolute;
+    left:376px;
+    top:228px;
+    width:100px;
+    height:20px;
+}
+
+#u404_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u405 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u406_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u406_container {
+    position:absolute;
+    left:476px;
+    top:228px;
+    width:100px;
+    height:20px;
+}
+
+#u406_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u407 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u408_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u82_normal.png');
+}
+
+.u408_container {
+    position:absolute;
+    left:0px;
+    top:248px;
+    width:176px;
+    height:22px;
+}
+
+#u408_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:28px;
+}
+
+.u409 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u410_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u410_container {
+    position:absolute;
+    left:176px;
+    top:248px;
+    width:100px;
+    height:22px;
+}
+
+#u410_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u411 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u412_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u412_container {
+    position:absolute;
+    left:276px;
+    top:248px;
+    width:100px;
+    height:22px;
+}
+
+#u412_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u413 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u414_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u414_container {
+    position:absolute;
+    left:376px;
+    top:248px;
+    width:100px;
+    height:22px;
+}
+
+#u414_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u415 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u416_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u416_container {
+    position:absolute;
+    left:476px;
+    top:248px;
+    width:100px;
+    height:22px;
+}
+
+#u416_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u417 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u418_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u82_normal.png');
+}
+
+.u418_container {
+    position:absolute;
+    left:0px;
+    top:270px;
+    width:176px;
+    height:22px;
+}
+
+#u418_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:28px;
+}
+
+.u419 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u420_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u420_container {
+    position:absolute;
+    left:176px;
+    top:270px;
+    width:100px;
+    height:22px;
+}
+
+#u420_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u421 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u422_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u422_container {
+    position:absolute;
+    left:276px;
+    top:270px;
+    width:100px;
+    height:22px;
+}
+
+#u422_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u423 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u424_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u424_container {
+    position:absolute;
+    left:376px;
+    top:270px;
+    width:100px;
+    height:22px;
+}
+
+#u424_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u425 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u426_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u84_normal.png');
+}
+
+.u426_container {
+    position:absolute;
+    left:476px;
+    top:270px;
+    width:100px;
+    height:22px;
+}
+
+#u426_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:28px;
+}
+
+.u427 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u428 {
+    position:absolute;
+    left:33px;
+    top:1198px;
+    width:181px;
+    height:83px
+}
+
+.u429_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u143_normal.png');
+}
+
+.u429_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:176px;
+    height:78px;
+}
+
+#u429_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:84px;
+}
+
+.u430 {
+    position:absolute;
+    left:2px;
+    top:31px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u431 {
+    position:absolute;
+    left:33px;
+    top:1276px;
+    width:181px;
+    height:225px
+}
+
+.u432_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u102_normal.png');
+}
+
+.u432_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:176px;
+    height:21px;
+}
+
+#u432_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:27px;
+}
+
+.u433 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u434_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u62_normal.png');
+}
+
+.u434_container {
+    position:absolute;
+    left:0px;
+    top:21px;
+    width:176px;
+    height:24px;
+}
+
+#u434_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:30px;
+}
+
+.u435 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u436_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u62_normal.png');
+}
+
+.u436_container {
+    position:absolute;
+    left:0px;
+    top:45px;
+    width:176px;
+    height:24px;
+}
+
+#u436_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:30px;
+}
+
+.u437 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u438_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u62_normal.png');
+}
+
+.u438_container {
+    position:absolute;
+    left:0px;
+    top:69px;
+    width:176px;
+    height:24px;
+}
+
+#u438_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:30px;
+}
+
+.u439 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u440_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u440_container {
+    position:absolute;
+    left:0px;
+    top:93px;
+    width:176px;
+    height:20px;
+}
+
+#u440_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u441 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u442_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u442_container {
+    position:absolute;
+    left:0px;
+    top:113px;
+    width:176px;
+    height:20px;
+}
+
+#u442_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u443 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u444_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u82_normal.png');
+}
+
+.u444_container {
+    position:absolute;
+    left:0px;
+    top:133px;
+    width:176px;
+    height:22px;
+}
+
+#u444_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:28px;
+}
+
+.u445 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u446_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u82_normal.png');
+}
+
+.u446_container {
+    position:absolute;
+    left:0px;
+    top:155px;
+    width:176px;
+    height:22px;
+}
+
+#u446_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:28px;
+}
+
+.u447 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u448_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u448_container {
+    position:absolute;
+    left:0px;
+    top:177px;
+    width:176px;
+    height:20px;
+}
+
+#u448_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u449 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u450_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u72_normal.png');
+}
+
+.u450_container {
+    position:absolute;
+    left:0px;
+    top:197px;
+    width:176px;
+    height:23px;
+}
+
+#u450_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:29px;
+}
+
+.u451 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u452 {
+    position:absolute;
+    left:133px;
+    top:1689px;
+    width:481px;
+    height:32px
+}
+
+.u453_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u9_normal.png');
+}
+
+.u453_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:476px;
+    height:27px;
+}
+
+#u453_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:482px;
+    height:33px;
+}
+
+.u454 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:472px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u455 {
+    position:absolute;
+    left:33px;
+    top:1716px;
+    width:581px;
+    height:210px
+}
+
+.u456_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u12_normal.png');
+}
+
+.u456_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:176px;
+    height:52px;
+}
+
+#u456_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:58px;
+}
+
+.u457 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u458_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u458_container {
+    position:absolute;
+    left:176px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u458_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u459 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u460_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u460_container {
+    position:absolute;
+    left:276px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u460_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u461 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u462_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u462_container {
+    position:absolute;
+    left:376px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u462_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u463 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u464_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u14_normal.png');
+}
+
+.u464_container {
+    position:absolute;
+    left:476px;
+    top:0px;
+    width:100px;
+    height:52px;
+}
+
+#u464_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u465 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u466_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u122_normal.png');
+}
+
+.u466_container {
+    position:absolute;
+    left:0px;
+    top:52px;
+    width:176px;
+    height:25px;
+}
+
+#u466_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:31px;
+}
+
+.u467 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u468_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u468_container {
+    position:absolute;
+    left:176px;
+    top:52px;
+    width:100px;
+    height:25px;
+}
+
+#u468_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u469 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u470_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u470_container {
+    position:absolute;
+    left:276px;
+    top:52px;
+    width:100px;
+    height:25px;
+}
+
+#u470_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u471 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u472_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u472_container {
+    position:absolute;
+    left:376px;
+    top:52px;
+    width:100px;
+    height:25px;
+}
+
+#u472_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u473 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u474_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u474_container {
+    position:absolute;
+    left:476px;
+    top:52px;
+    width:100px;
+    height:25px;
+}
+
+#u474_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u475 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u476_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u62_normal.png');
+}
+
+.u476_container {
+    position:absolute;
+    left:0px;
+    top:77px;
+    width:176px;
+    height:24px;
+}
+
+#u476_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:30px;
+}
+
+.u477 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u478_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u478_container {
+    position:absolute;
+    left:176px;
+    top:77px;
+    width:100px;
+    height:24px;
+}
+
+#u478_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u479 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u480_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u480_container {
+    position:absolute;
+    left:276px;
+    top:77px;
+    width:100px;
+    height:24px;
+}
+
+#u480_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u481 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u482_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u482_container {
+    position:absolute;
+    left:376px;
+    top:77px;
+    width:100px;
+    height:24px;
+}
+
+#u482_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u483 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u484_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u64_normal.png');
+}
+
+.u484_container {
+    position:absolute;
+    left:476px;
+    top:77px;
+    width:100px;
+    height:24px;
+}
+
+#u484_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:30px;
+}
+
+.u485 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u486_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u72_normal.png');
+}
+
+.u486_container {
+    position:absolute;
+    left:0px;
+    top:101px;
+    width:176px;
+    height:23px;
+}
+
+#u486_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:29px;
+}
+
+.u487 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u488_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u488_container {
+    position:absolute;
+    left:176px;
+    top:101px;
+    width:100px;
+    height:23px;
+}
+
+#u488_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u489 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u490_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u490_container {
+    position:absolute;
+    left:276px;
+    top:101px;
+    width:100px;
+    height:23px;
+}
+
+#u490_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u491 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u492_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u492_container {
+    position:absolute;
+    left:376px;
+    top:101px;
+    width:100px;
+    height:23px;
+}
+
+#u492_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u493 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u494_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u74_normal.png');
+}
+
+.u494_container {
+    position:absolute;
+    left:476px;
+    top:101px;
+    width:100px;
+    height:23px;
+}
+
+#u494_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:29px;
+}
+
+.u495 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u496_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u32_normal.png');
+}
+
+.u496_container {
+    position:absolute;
+    left:0px;
+    top:124px;
+    width:176px;
+    height:20px;
+}
+
+#u496_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:26px;
+}
+
+.u497 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u498_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u498_container {
+    position:absolute;
+    left:176px;
+    top:124px;
+    width:100px;
+    height:20px;
+}
+
+#u498_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u499 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u500_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u500_container {
+    position:absolute;
+    left:276px;
+    top:124px;
+    width:100px;
+    height:20px;
+}
+
+#u500_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u501 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u502_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u502_container {
+    position:absolute;
+    left:376px;
+    top:124px;
+    width:100px;
+    height:20px;
+}
+
+#u502_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u503 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u504_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u34_normal.png');
+}
+
+.u504_container {
+    position:absolute;
+    left:476px;
+    top:124px;
+    width:100px;
+    height:20px;
+}
+
+#u504_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u505 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u506_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u22_normal.png');
+}
+
+.u506_container {
+    position:absolute;
+    left:0px;
+    top:144px;
+    width:176px;
+    height:36px;
+}
+
+#u506_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:42px;
+}
+
+.u507 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u508_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u24_normal.png');
+}
+
+.u508_container {
+    position:absolute;
+    left:176px;
+    top:144px;
+    width:100px;
+    height:36px;
+}
+
+#u508_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u509 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u510_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u24_normal.png');
+}
+
+.u510_container {
+    position:absolute;
+    left:276px;
+    top:144px;
+    width:100px;
+    height:36px;
+}
+
+#u510_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u511 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u512_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u24_normal.png');
+}
+
+.u512_container {
+    position:absolute;
+    left:376px;
+    top:144px;
+    width:100px;
+    height:36px;
+}
+
+#u512_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u513 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u514_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u24_normal.png');
+}
+
+.u514_container {
+    position:absolute;
+    left:476px;
+    top:144px;
+    width:100px;
+    height:36px;
+}
+
+#u514_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u515 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u516_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u122_normal.png');
+}
+
+.u516_container {
+    position:absolute;
+    left:0px;
+    top:180px;
+    width:176px;
+    height:25px;
+}
+
+#u516_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:31px;
+}
+
+.u517 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u518_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u518_container {
+    position:absolute;
+    left:176px;
+    top:180px;
+    width:100px;
+    height:25px;
+}
+
+#u518_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u519 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u520_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u520_container {
+    position:absolute;
+    left:276px;
+    top:180px;
+    width:100px;
+    height:25px;
+}
+
+#u520_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u521 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u522_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u522_container {
+    position:absolute;
+    left:376px;
+    top:180px;
+    width:100px;
+    height:25px;
+}
+
+#u522_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u523 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u524_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u124_normal.png');
+}
+
+.u524_container {
+    position:absolute;
+    left:476px;
+    top:180px;
+    width:100px;
+    height:25px;
+}
+
+#u524_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u525 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u526 {
+    position:absolute;
+    left:33px;
+    top:1689px;
+    width:181px;
+    height:83px
+}
+
+.u527_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u143_normal.png');
+}
+
+.u527_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:176px;
+    height:78px;
+}
+
+#u527_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:84px;
+}
+
+.u528 {
+    position:absolute;
+    left:2px;
+    top:31px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u529 {
+    position:absolute;
+    left:33px;
+    top:1767px;
+    width:181px;
+    height:134px
+}
+
+.u530_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u122_normal.png');
+}
+
+.u530_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:176px;
+    height:25px;
+}
+
+#u530_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:31px;
+}
+
+.u531 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u532_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u122_normal.png');
+}
+
+.u532_container {
+    position:absolute;
+    left:0px;
+    top:25px;
+    width:176px;
+    height:25px;
+}
+
+#u532_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:31px;
+}
+
+.u533 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u534_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u82_normal.png');
+}
+
+.u534_container {
+    position:absolute;
+    left:0px;
+    top:50px;
+    width:176px;
+    height:22px;
+}
+
+#u534_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:28px;
+}
+
+.u535 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u536_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u102_normal.png');
+}
+
+.u536_container {
+    position:absolute;
+    left:0px;
+    top:72px;
+    width:176px;
+    height:21px;
+}
+
+#u536_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:27px;
+}
+
+.u537 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u538_normal {
+    background-image: url('../Jadual_6__Purata_Gaji_Pekerja_Warganegara__1_files/u22_normal.png');
+}
+
+.u538_container {
+    position:absolute;
+    left:0px;
+    top:93px;
+    width:176px;
+    height:36px;
+}
+
+#u538_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:42px;
+}
+
+.u539 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:172px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

@@ -1,0 +1,73 @@
+#
+# Apache/PHP/ settings
+# updated: 16012012
+#
+
+# Protect files and directories from prying eyes.
+<FilesMatch "(.*license\.txt)$|^(\..*|lib|tpl|cache|data|comm|upload)$">
+  Order allow,deny
+</FilesMatch>
+
+# Don't show directory listings for URLs which map to a directory.
+Options -Indexes
+
+# Follow symbolic links in this directory.
+#Options +SymLinksIfOwnerMatch
+Options +FollowSymLinks
+
+# handle any 404 errors.
+ErrorDocument 404 "<html><head><title>404: File not found!</title></head><body><b>404: File not found!</b></body></html>"
+
+# handle any 403 errors.
+ErrorDocument 403 "<html><head><title>403: Access forbidden!</title></head><body><b>403: Access forbidden!</b></body></html>"
+
+# Force simple error message for requests for non-existent favicon.ico.
+<Files favicon.ico>
+  ErrorDocument 404 "The requested file favicon.ico was not found."
+</Files>
+
+# Set the default handler.
+DirectoryIndex index.php index.html
+
+# PHP 5, Apache 1 and 2.
+<IfModule mod_php5.c>
+  php_value magic_quotes_gpc                0
+  php_value register_globals                0
+  php_value session.auto_start              0
+  php_value mbstring.http_input             pass
+  php_value mbstring.http_output            pass
+  php_value mbstring.encoding_translation   0
+  php_value html_errors			    0
+</IfModule>
+
+# Requires mod_expires to be enabled.
+<IfModule mod_expires.c>
+  # Enable expirations.
+  ExpiresActive On
+
+  # Cache all files for 2 weeks after access (A).
+  ExpiresDefault A1209600
+
+  <FilesMatch \.php$>
+    # Do not allow PHP scripts to be cached unless they explicitly send cache
+    # headers themselves
+    ExpiresActive Off
+  </FilesMatch>
+</IfModule>
+
+# Various rewrite rules.
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_URI} !=/favicon.ico
+
+  RewriteRule ^admin/ui/(.*) ui/$1
+  RewriteRule ^admin/rsc/(.*) rsc/$1
+
+  RewriteRule ^rsc/(.*?,.*\.css) minify.php?t=css&d=rsc&f=$1
+  RewriteRule ^rsc/(.*\.css) minify.php?t=css&d=rsc&f=$1
+  RewriteRule ^rsc/(.*?,.*\.js) minify.php?t=js&d=rsc&f=$1
+  RewriteRule ^rsc/(.*\.js) minify.php?t=js&d=rsc&f=$1
+
+</IfModule>

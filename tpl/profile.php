@@ -1,0 +1,134 @@
+<?php
+@_object($this) && !_null($this->request['_formid']) && !_null($this->request['id'])|| exit("403 Forbidden");
+$this->_notlogin();
+$fdb = (object)$this->user->_getinfo($this->request['id']);
+?>
+
+<div class="dialog_max_height">
+<form id="<?php _E($this->request['_formid']);?>">
+
+<fieldset class="x-fb">
+<legend class="x-title"><?php _t("Login");?></legend>
+<table id="x-table">
+
+<tr>
+<th><?php _t("Kata Laluan");?></th>
+<td><input type="password" name="npass" class="text" value=""></td>
+</tr>
+
+<tr>
+<th><?php _t("Taip semula Kata Laluan");?></th>
+<td><input type="password" name="rpass" class="text" value=""></td>
+</tr>
+
+
+</table>
+</fieldset>
+
+<fieldset class="x-fb">
+<legend class="x-title"><?php _t("Informasi");?></legend>
+<table id="x-table">
+
+<tr>
+<th><?php _t("Kategori");?></th>
+<td class="dinfo">
+<?php _E(utf8_ucwords($this->display->_getcategory_name($fdb->category_id)));?>
+</td>
+</tr>
+
+<tr>
+<th><?php _t("Nama syarikat");?></th>
+<td class="dinfo"><?php _E($fdb->company);?></td>
+</tr>
+
+<tr>
+<th><?php _t("No. Lesen MPOB");?></th>
+<td class="dinfo"><?php _E($fdb->nolesen);?></td>
+</tr>
+
+<tr>
+<th style="vertical-align: top; padding-top: 10px;"><?php _t("Alamat Premis");?></th>
+<td class="dinfo">
+<?php _E($fdb->address);?>
+</td>
+</tr>
+
+<tr>
+<th style="vertical-align: top; padding-top: 10px;"></th>
+<td class="dinfo">
+<?php _E($fdb->address2);?>
+</td>
+</tr>
+
+<tr>
+<th style="vertical-align: top; padding-top: 10px;"></th>
+<td class="dinfo">
+<?php _E($fdb->address3);?>
+</td>
+</tr>
+
+<tr>
+<th style="vertical-align: top; padding-top: 10px;"><?php _t("Alamat Surat Menyurat");?></th>
+<td class="dinfo">
+<?php _E($fdb->address_surat);?>
+</td>
+</tr>
+
+<tr>
+<th style="vertical-align: top; padding-top: 10px;"></th>
+<td class="dinfo">
+<?php _E($fdb->address_surat2);?>
+</td>
+</tr>
+
+<tr>
+<th style="vertical-align: top; padding-top: 10px;"></th>
+<td class="dinfo">
+<?php _E($fdb->address_surat3);?>
+</td>
+</tr>
+
+<tr>
+<th><?php _t("Daerah");?></th>
+<td class="dinfo"><?php _E(utf8_ucwords($this->display->_getdaerah_name($fdb->daerah_id)));?></td>
+</tr>
+
+<tr>
+<th><?php _t("Negeri");?></th>
+<td class="dinfo">
+<?php _E(utf8_ucwords($this->display->_getstate_name($fdb->state_id)));?>
+</td>
+</tr>
+<!--
+<tr>
+<th><?php _t("Poskod");?></th>
+<td class="dinfo"><?php _E($fdb->postcode);?></td>
+</tr>
+-->
+<tr>
+<th><?php _t("Pegawai Melapor");?></th>
+<td class="dinfo"><?php _E($fdb->pegawai);?></td>
+</tr>
+
+<tr>
+<th><?php _t("Jawatan Rasmi");?></th>
+<td class="dinfo"><?php _E($fdb->jawatan);?></td>
+</tr>
+
+<tr>
+<th><?php _t("Telefon");?></th>
+<td class="dinfo"><?php _E($fdb->phone);?></td>
+</tr>
+
+<tr>
+<th><?php _t("Faks");?></th>
+<td class="dinfo"><?php _E($fdb->fax);?></td>
+</tr>
+
+
+</table>
+</fieldset>
+
+
+</form>
+</div> <!-- /dialog_max_height -->

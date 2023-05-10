@@ -1,0 +1,70 @@
+/** tpl: tpl/login.php **/
+
+/* login-box */
+#login {
+	/*padding-top: 250px;*/
+    padding: 0px;
+	width: 750px;
+	clear: both;
+}
+
+#login table {
+	padding: 15px 50px 20px 30px;
+	border: 1px solid transparent;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-right-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	border-radius: 10px;
+	/*background: #ffffff;*/
+}
+
+#login th {
+	vertical-align: middle;
+	text-align: right;
+	padding-right: 10px;
+	font-weight: bold;
+	font-size: 14px;
+	font-family: arial;
+}
+
+#login td {
+	vertical-align: middle;
+	text-align: left;
+	font-size: 13px;
+	font-family: arial;
+}
+
+#login input.text {
+	width: 250px;
+	padding:6px;
+}
+#login input.text:focus {
+	background: #f5f5b5;
+}
+
+
+#login th.banner {
+	width: 250px;
+	text-align: center;
+	padding-right: 20px !important;
+}
+
+#login div.logo {
+	margin: 0px 20px 0px 0px;
+	width: 145px;
+	height: 92px;
+	clear: both;
+	/*background: transparent url(logo.png) center center no-repeat;*/
+}
+
+#login div.appname {
+	min-width: 200px;
+	clear: both;
+	color: #7f0000 !important;
+	font-size: 16px !important;
+	text-align: center;
+	margin-top: 10px;
+}
+
